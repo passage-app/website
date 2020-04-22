@@ -1,0 +1,19 @@
+.icon-image {
+    border-radius: 15.625%;
+    width: 100px;
+    border: 1px solid white;
+}
+
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.use-icon-as-background {
+    background-image: url("img/icon.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
